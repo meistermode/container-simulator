@@ -279,7 +279,7 @@ func (s *SimulationAgent) openContainers() {
 		fmt.Println("1. Открыть 1 уровень")
 		fmt.Println("2. Открыть 2 уровень")
 		fmt.Println("3. Открыть 3 уровень")
-		fmt.Println("4. Открыть всё")
+		fmt.Println("4. Открыть всё моментально (неинтересно)")
 		fmt.Println("5. Назад")
 		fmt.Print("\nВыберите действие: ")
 		
